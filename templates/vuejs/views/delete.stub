@@ -1,4 +1,4 @@
-@extends('layouts.modal.delete')
+@extends('backpack::layout')
 
 @section('modal-delete-title')
 Delete $MODEL_NAME$!

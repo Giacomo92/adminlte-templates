@@ -1,4 +1,4 @@
-@extends('layouts.modal.form')
+@extends('backpack::layout')
 
 @section('modal-form-title')
 $MODEL_NAME$ Form

@@ -1,4 +1,4 @@
-@extends('layouts.modal.show')
+@extends('backpack::layout')
 
 @section('modal-show-title')
 $MODEL_NAME$
